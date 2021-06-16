@@ -1,3 +1,5 @@
+--https://eduardoroedel.medium.com/dica-r%C3%A1pida-exibindo-diferen%C3%A7a-entre-datas-em-formato-hh-mm-ss-91124a9cc9b4
+
 DECLARE @data1 DATETIME = '2021-06-12 19:00:01.000';
 DECLARE @data2 DATETIME = '2021-06-12 20:00:00.000';
 --03h 59m 59s
